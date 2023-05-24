@@ -1,0 +1,15 @@
+.github
+.vscode
+src
+test
+.eslintrc.js
+.gitignore
+.npmignore
+.prettierrc
+.release-it.json
+jest.config.js
+nest-cli.json
+sonar-project.properties
+tsconfig.json
+tsconfig.build.json
+tsconfig.e2e.json
